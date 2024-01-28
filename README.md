@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HadeedKhan1
 - 👀 I’m interested in Programming, Hardware and Business
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an internship
 - 📫 How to reach me 737-255-6255
 
 <!---
